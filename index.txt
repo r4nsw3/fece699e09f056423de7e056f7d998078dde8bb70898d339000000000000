@@ -10,5 +10,5 @@
 -	1	md5.txt
 -	1	sha1.txt
 -	1	sha256.txt
-	0	data/00/00/00/00/00.bin
-	0	data/00/00/00/00/01.bin
+-	0	data/00/00/00/00/00.bin
+-	0	data/00/00/00/00/01.bin
